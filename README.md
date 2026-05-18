@@ -1,5 +1,7 @@
 # DQCON
 
+![dqcon demo](dqcon_demo.gif)
+
 `dqcon` is a modern remake of `qcon`, a powerful, cross-platform terminal client for **kdb+/q**. It provides a modern TUI (Terminal User Interface) experience with features designed for high productivity, such as connection list, persistent session history, multi-line editing, and command repetition.
 
 ## Features
